@@ -72,8 +72,8 @@ All from natural language, in minutes.
 ## Quick Start
 
 ```bash
-git clone https://github.com/MalviyaPriyank/postgresai.git
-cd postgresai
+git clone https://github.com/Gyrus-Dev/Mick.git
+cd Mick
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
@@ -354,8 +354,8 @@ Row-Level Security Policies · Column Permissions
 ### Install
 
 ```bash
-git clone https://github.com/MalviyaPriyank/postgresai.git
-cd postgresai
+git clone https://github.com/Gyrus-Dev/Mick.git
+cd Mick
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
