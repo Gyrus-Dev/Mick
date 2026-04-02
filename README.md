@@ -18,7 +18,7 @@
 [![Agents](https://img.shields.io/badge/agents-20%2B%20specialists-orange)](#architecture)
 [![PostgreSQL](https://img.shields.io/badge/built%20for-PostgreSQL-336791?logo=postgresql)](https://www.postgresql.org/)
 
-[**Quick Start**](#quick-start) · [**Features**](#spotlight-features) · [**Architecture**](#architecture) · [**Setup**](#setup) · [**Safety**](#safety) · [**Contributing**](#contributing) · [**Get in Touch**](#get-in-touch)
+[**Quick Start**](#quick-start) · [**Features**](#spotlight-features) · [**Architecture**](#architecture) · [**Setup**](#setup) · [**Safety**](#safety) · [**Contributing**](#contributing) · [**Discord**](https://discord.gg/Qtncaksxp) · [**Get in Touch**](#get-in-touch)
 
 If you find MICK useful, please consider giving it a ⭐ — it helps others discover the project!
 
@@ -560,6 +560,12 @@ Share what you build: [priyank@thegyrus.com](mailto:priyank@thegyrus.com)
 ## Enterprise
 
 For enterprise features and managed hosting — including persistent sessions and long-term memory out of the box — visit [thegyrus.com](https://www.thegyrus.com) or [get in touch](#get-in-touch).
+
+---
+
+## Community
+
+Join our [Discord](https://discord.gg/Qtncaksxp) to ask questions, share what you've built, and connect with other MICK users.
 
 ---
 
