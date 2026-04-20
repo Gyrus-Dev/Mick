@@ -12,6 +12,12 @@
 
 **An open-source, self-hosted agentic framework that turns plain English into PostgreSQL operations.**
 
+  ---                                                                                                                                                                                                                
+  ### 🚀 Get Started Faster                                                                                                                                                                                          
+  **Need help deploying Mick or want to see the latest PostgreSQL agent recipes?**                                                                                                                                   
+  [**Join the Gyrus Discord Community**](https://discord.gg/GpgVzJ6ku) to connect with other database architects and the Gyrus team.                                                                                 
+  ---   
+
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.11+-blue?logo=python)](https://www.python.org/)
 [![Models](https://img.shields.io/badge/models-Claude%20%7C%20Gemini%20%7C%20OpenAI-green)](#model-provider)
@@ -55,6 +61,9 @@ Beyond building infrastructure, MICK helps you get the most out of PostgreSQL ac
 - **Data governance** (RLS policies, audit trails, access controls) — so the right people see the right data
 
 All from natural language, in minutes.
+  > **Pro Tip:** Fighting a stubborn performance bottleneck or trying to optimize your vacuum settings? Describe your `pg_stat_statements` findings in the `#help-and-support` channel on our                        
+**[Discord](https://discord.gg/GpgVzJ6ku)**, and we'll help you refine your agent sequence to fix it.                                                                                                                
+```
 
 | | |
 |---|---|
@@ -342,6 +351,17 @@ Row-Level Security Policies · Column Permissions
 </details>
 
 ---
+
+  ## 🤝 Join the Ecosystem                                                                                                                                                                                           
+                                                                                                                                                                                                                     
+  Mick is open-source and community-driven. We aren't just building a tool; we're creating a hub for Agentic Data Ops across all major platforms (Snowflake, SQL Server, and PostgreSQL). Join our Discord to:       
+                                                                                                                                                                                                                     
+  * **🛠️ Get Agent Recipes:** Discover the most effective prompt sequences for automating multi-tenant SaaS schemas and complex RLS policies.                                                                        
+  * **🗺️ Influence the Roadmap:** Vote on new features and tell us which database extensions or operational patterns we should automate next.                                                                        
+  * **⚡ Direct Access:** Get real-time architectural guidance and support from the creators at Gyrus Inc.                                                                                                           
+  * **🧪 Beta Access:** Get early access to new specialist agents and experimental pillars before they hit the main branch.                                                                                          
+                                                                                                                                                                                                                     
+  [**👉 Enter the Gyrus Discord**](https://discord.gg/GpgVzJ6ku)  
 
 ## Setup
 
