@@ -13,6 +13,15 @@
 **An open-source, self-hosted agentic framework that turns plain English into PostgreSQL operations.**
 
   ---                                                                                                                                                                                                                
+  ### 🛡️ Trusted & Validated                                                                                                                                                                                         
+  **Accelerated by the Confluent Accelerator Program for AI Startups (Cohort-3).**                                                                                                                                   
+  MICK's autonomous agent framework for PostgreSQL has been refined and validated through the Confluent AI startup ecosystem.                                                                                        
+                                                                                                                                                                                                                     
+  🚀 **Get Started Faster:** Need help deploying Mick or want to see the latest PostgreSQL agent recipes?                                                                                                            
+  [**Join the Gyrus Discord Community**](https://discord.gg/GpgVzJ6ku) to connect with other database architects and the Gyrus team.                                                                                 
+  ---  
+
+  ---                                                                                                                                                                                                                
   ### 🚀 Get Started Faster                                                                                                                                                                                          
   **Need help deploying Mick or want to see the latest PostgreSQL agent recipes?**                                                                                                                                   
   [**Join the Gyrus Discord Community**](https://discord.gg/GpgVzJ6ku) to connect with other database architects and the Gyrus team.                                                                                 
